@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamdeb6x3
-- 👀 I’m interested in Linux amd programming
+- 👀 I’m interested in Linux and programming
 - 🌱 I’m currently learning C, C++, Python and Bash.
 - 💞️ I’m looking to collaborate on programming projects.
 - 📫 You can reach me via E-mail: kamdeb6x3@protonmail.com
