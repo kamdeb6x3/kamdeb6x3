@@ -1,4 +1,5 @@
 - 👋 Hi, my name is Kamil Dębski.
 - 👀 I’m very much interested in AI.
 - 🎸 I like programming in Python the most but I can write in any given programming language if needed.
+- 📒 Here you can read my projects description: [gitlab](gitlab.com/kamdeb6x3)
 - 📫 You can reach me via E-mail: kamdeb6x3@proton.me
